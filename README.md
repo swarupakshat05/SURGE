@@ -1,4 +1,4 @@
-# SURGE
+# Generative AI for discovery of new molecules and materials
 The large chemical and structural diversity of materials presents significant challenges in
 discovering new materials with tailored properties for various applications. Material discovery
 has traditionally progressed through expensive trial-and-error experimentation. Recent advances
